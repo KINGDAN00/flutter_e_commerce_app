@@ -1,0 +1,3 @@
+enum TabType {
+  grid, list
+}
